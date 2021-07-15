@@ -1,0 +1,5 @@
+package models;
+
+public enum CellType {
+	EMPTY, EMPTY_AFFECTED, VERIFY, OCCUPIED_FULL, OCCUPIED_AFFECTED, OCCUPIED_DESTOYED;
+}
